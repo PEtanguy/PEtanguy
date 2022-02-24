@@ -7,6 +7,7 @@ Backend Dev [@Shippeo](https://github.com/shippeo)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-EA7902?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-![https://www.linkedin.com/in/pierre-emmanuel-tanguy/](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pierre-emmanuel-tanguy/)
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=petanguy)
