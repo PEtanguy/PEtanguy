@@ -9,7 +9,7 @@ Backend Dev [@Shippeo](https://github.com/shippeo)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pierre-emmanuel-tanguy/)
 
-[!Article I wrote about RabbitMQ] (https://medium.com/@petanguy/rabbitmq-hack-how-to-edit-a-queue-without-losing-data-f12ac4f29ceb)
+[!Article I wrote about RabbitMQ](https://medium.com/@petanguy/rabbitmq-hack-how-to-edit-a-queue-without-losing-data-f12ac4f29ceb)
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=petanguy)
