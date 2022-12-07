@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Backend Dev [@Shippeo](https://github.com/shippeo)
+Backend Dev [@Starling](https://github.com/starlingbank)
 
 ![PHP](https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-17bf63?style=for-the-badge&logo=symfony&logoColor=white)
