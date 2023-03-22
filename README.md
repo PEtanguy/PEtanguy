@@ -1,7 +1,16 @@
 ### Hi there 👋
+<p>
+  
+![StarlingBank](https://img.shields.io/badge/starlingbank-6935D3?style=for-the-badge&logo=starlingbank)
+  
+</p>
 
-Backend Dev [@Starling Bank](https://github.com/starlingbank)  ![StarlingBank](https://img.shields.io/badge/starlingbank-6935D3?style=for-the-badge&logo=java&logoColor=white)
+<p>
 
+Backend Dev [@Starling Bank](https://github.com/starlingbank) 
+
+</p>
+  
 
 ![JAVA](https://img.shields.io/badge/java-f80000?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=php&logoColor=white)
