@@ -1,5 +1,5 @@
 
-### Hi there 👋  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=petanguy)
+### Hi there 👋
 #### About Me:
 ![StarlingBank](https://img.shields.io/badge/starlingbank-6935D3?style=for-the-badge&logo=starlingbank)
 Backend Dev [@Starling Bank](https://github.com/starlingbank)  
