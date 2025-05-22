@@ -26,7 +26,7 @@ Building the future of automotive services at **[PitStop](https://www.mypitstop.
 📚 **[RabbitMQ Hack: How to Edit a Queue Without Losing Data](https://medium.com/@petanguy/rabbitmq-hack-how-to-edit-a-queue-without-losing-data-f12ac4f29ceb)**
 *A deep dive into advanced RabbitMQ management techniques*
 
-## 📊 GitHub Stats
+## 📊 Am I working hard or filming cool videos?
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PEtanguy&theme=react-dark&hide_border=true)
 
 ## 🌟 What I'm Building
