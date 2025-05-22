@@ -1,8 +1,12 @@
 
 ### Hi there 👋
 #### About Me:
+Currently running PitStop. 
+https://www.mypitstop.co.uk/
+
+
 ![StarlingBank](https://img.shields.io/badge/starlingbank-6935D3?style=for-the-badge&logo=starlingbank)
-Backend Dev [@Starling Bank](https://github.com/starlingbank)  
+Formerly Backend Dev [@Starling Bank](https://github.com/starlingbank)  
 
 #### My Socials:
 [![Linkedin](https://img.shields.io/badge/linkedin-2499ED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-emmanuel-tanguy/)
