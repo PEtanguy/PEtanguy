@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pierre-Emmanuel Tanguy
+# 👋 Hi, I'm Pierre
 
 ## 🚀 Founder & CEO at PitStop
 Building the future of automotive services at **[PitStop](https://www.mypitstop.co.uk/)** — bringing transparency in vehicle exchanges in the UK.
