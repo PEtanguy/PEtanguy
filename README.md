@@ -27,8 +27,7 @@ Building the future of automotive services at **[PitStop](https://www.mypitstop.
 *A deep dive into advanced RabbitMQ management techniques*
 
 ## 📊 GitHub Stats
-![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=PEtanguy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PEtanguy&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PEtanguy&theme=react-dark&hide_border=true)
 
 ## 🌟 What I'm Building
 - 🚗 **PitStop**: Connecting drivers
