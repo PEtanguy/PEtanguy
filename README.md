@@ -40,4 +40,4 @@ Building the future of automotive services at **[PitStop](https://www.mypitstop.
 [![PitStop](https://img.shields.io/badge/PitStop-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)](https://www.mypitstop.co.uk/)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=PEtanguy&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=PEtanguy&color=blueviolet&style=for-the-badge)
